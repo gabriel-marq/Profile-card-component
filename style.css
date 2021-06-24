@@ -94,6 +94,10 @@ body .card .card--bottom .content .stats{
     border-top: 1px solid var(--Dark-gray);
 }
 
+body .card .card--bottom .content .stats p{
+    margin-bottom: 0.6em;
+}
+
 body .card .card--bottom .content .stats .likes{
     margin: 0 3em;
 }
